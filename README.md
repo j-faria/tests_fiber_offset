@@ -42,6 +42,18 @@ Save to file `tmp4Awj3D_offset`.
 
 Using the data without offset, from file `tmp4Awj3D`, I obtain:
 
+![](https://github.com/j-faria/tests_fiber_offset/blob/master/dist_Np_without_offset.png)
+![](https://github.com/j-faria/tests_fiber_offset/blob/master/K_ecc_vs_P_without_offset.png)
+![](https://github.com/j-faria/tests_fiber_offset/blob/master/data_representation_without_offset.png)
+![](https://github.com/j-faria/tests_fiber_offset/blob/master/dist_offset_without_offset.png)
+
+
+
 ## Results, data with offset
 
 Using the data **with** offset, from file `tmp4Awj3D_offset`, I obtain:
+
+![](https://github.com/j-faria/tests_fiber_offset/blob/master/dist_Np_with_offset.png)
+![](https://github.com/j-faria/tests_fiber_offset/blob/master/K_ecc_vs_P_with_offset.png)
+![](https://github.com/j-faria/tests_fiber_offset/blob/master/data_representation_with_offset.png)
+![](https://github.com/j-faria/tests_fiber_offset/blob/master/dist_offset_with_offset.png)
